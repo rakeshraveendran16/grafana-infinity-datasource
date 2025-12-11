@@ -6672,14 +6672,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-xml-parser@npm:^4.3.5":
-  version: 4.5.1
-  resolution: "fast-xml-parser@npm:4.5.1"
+"fast-xml-parser@npm:^4.2.4":
+  version: 4.5.3
+  resolution: "fast-xml-parser@npm:4.5.3"
   dependencies:
-    strnum: "npm:^1.0.5"
+    strnum: "npm:^1.1.1"
   bin:
     fxparser: src/cli/cli.js
-  checksum: 10c0/70c6c675770d57d4b73716a1cdccff3780a5f818cffdab9c7560003e1724209001af32fbe7bb27a01107389b1998191c62e20104788ba17e218dfe063aa15b57
+  checksum: 10c0/bf9ccadacfadc95f6e3f0e7882a380a7f219cf0a6f96575149f02cb62bf44c3b7f0daee75b8ff3847bcfd7fbcb201e402c71045936c265cf6d94b141ec4e9327
   languageName: node
   linkType: hard
 
@@ -7379,7 +7379,7 @@ __metadata:
     tsconfig-paths: "npm:4.2.0"
     tslib: "npm:2.5.3"
     typescript: "npm:5.5.4"
-    uql: "npm:0.0.23"
+    uql: "npm:0.0.24"
     webpack: "npm:5.97.1"
     webpack-cli: "npm:5.1.4"
     webpack-livereload-plugin: "npm:3.0.2"
@@ -12377,10 +12377,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"strnum@npm:^1.0.5":
-  version: 1.0.5
-  resolution: "strnum@npm:1.0.5"
-  checksum: 10c0/64fb8cc2effbd585a6821faa73ad97d4b553c8927e49086a162ffd2cc818787643390b89d567460a8e74300148d11ac052e21c921ef2049f2987f4b1b89a7ff1
+"strnum@npm:^1.1.1":
+  version: 1.1.2
+  resolution: "strnum@npm:1.1.2"
+  checksum: 10c0/a0fce2498fa3c64ce64a40dada41beb91cabe3caefa910e467dc0518ef2ebd7e4d10f8c2202a6104f1410254cae245066c0e94e2521fb4061a5cb41831952392
   languageName: node
   linkType: hard
 
@@ -13098,20 +13098,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uql@npm:0.0.23":
-  version: 0.0.23
-  resolution: "uql@npm:0.0.23"
+"uql@npm:0.0.24":
+  version: 0.0.24
+  resolution: "uql@npm:0.0.24"
   dependencies:
     "@yesoreyeram/nearley": "npm:^3.0.0-beta.2"
     csv-parse: "npm:4.12.0"
     dayjs: "npm:^1.10.7"
-    fast-xml-parser: "npm:^4.3.5"
+    fast-xml-parser: "npm:^4.2.4"
     js-yaml: "npm:^4.1.0"
     jsonata: "npm:1.8.7"
     lodash: "npm:^4.17.21"
     moo: "npm:^0.5.2"
     xml2js: "npm:0.6.2"
-  checksum: 10c0/b6ab901848d8b0bc7fe5ad0268c34e210410fc9f41b71cec1a5ecb8dd50d76d553417f6933ae92df1c057b2cd32f1bc7bbaf4020a0859bd36766712719df3a87
+  checksum: 10c0/490259152ed220d3a4e2ac300f33df6480a2853780e86d1a2eacb8a37fe0326fb95b5988dcc7d6f6f19a59917a2baedde1b5d0e5ef9a923540ff26032c61238c
   languageName: node
   linkType: hard
 
